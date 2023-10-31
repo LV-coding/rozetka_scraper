@@ -1,0 +1,1 @@
+Script for receiving prices and names of products by their link "rozetka"
